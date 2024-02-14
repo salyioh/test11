@@ -1,1 +1,2 @@
-cont dd= "ddd"
+const dd = 'ddd';
+const ff = 'sss';
